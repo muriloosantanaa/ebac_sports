@@ -1,7 +1,0 @@
-{
-  "products": [
-    { "id": 1, "name": "Bola de Basquete", "price": 199.9 },
-    { "id": 2, "name": "Camisa Esportiva", "price": 89.5 },
-    { "id": 3, "name": "Tênis de Corrida", "price": 299.0 }
-  ]
-}
